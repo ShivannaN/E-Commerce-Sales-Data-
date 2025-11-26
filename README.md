@@ -177,6 +177,6 @@ Feel free to fork this repository and make improvements.
 Pull requests are welcome!
 
 Contact
-
 Shivu N S
-(Add your GitHub / LinkedIn links here)
+LinkedIn: linkedin.com/in/shivannan  
+GitHub: github.com/ShivannaN
